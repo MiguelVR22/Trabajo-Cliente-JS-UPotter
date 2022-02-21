@@ -1,0 +1,5 @@
+# Copia de seguridad
+*.bak
+
+# Ficheros servidor
+*.php
